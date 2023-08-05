@@ -1,2 +1,2 @@
 mkdir question02
-cd 
+cd question02
